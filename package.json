@@ -1,6 +1,6 @@
 {
   "name": "@reubn/eslint-config-reubn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,7 @@
   "repository": "https://github.com/reubn/eslint-config-reubn.git",
   "author": "Reuben Eggar",
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "eslint": "^1.9.0",
     "babel-eslint": "^4.1.5",
