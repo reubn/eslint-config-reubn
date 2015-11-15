@@ -1,5 +1,5 @@
 {
-  "name": "@reubn/eslint-config",
+  "name": "@reubn/eslint-config-reubn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [
     "eslint"
   ],
-  "repository": "https://github.com/reubn/eslint-config.git",
+  "repository": "https://github.com/reubn/eslint-config-reubn.git",
   "author": "Reuben Eggar",
   "license": "MIT",
   "devDependencies": {
