@@ -22,6 +22,8 @@ module.exports = {
       "beforeColon": false,
       "afterColon": true,
       "mode": "strict"
-    }]
+    }],
+    "react/prop-types": 0,
+    "react/wrap-multilines": 0
   }
 }
